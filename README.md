@@ -1,4 +1,4 @@
-Restaurant Management System GUI Application
+# Restaurant Management System GUI Application
 
 ## Description
 
