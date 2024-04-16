@@ -2,7 +2,7 @@
 
 ## Description
 
-The Restaurant Management System GUI Application is a Python Tkinter-based graphical user interface that provides an efficient and user-friendly solution for managing restaurant-related tasks. It allows restaurant owners and managers to efficiently manage various aspects of their business, such as staff details, menu items, orders, billing, etc.
+BillMor is a Restaurant Management System GUI Application is a Python Tkinter-based graphical user interface that provides an efficient and user-friendly solution for managing restaurant-related tasks. It allows restaurant owners and managers to efficiently manage various aspects of their business, such as staff details, menu items, orders, billing, etc.
 
 ## Features
 
