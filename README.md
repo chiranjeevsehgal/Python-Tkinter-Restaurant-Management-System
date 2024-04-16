@@ -1,4 +1,4 @@
-# Restaurant Management System GUI Application
+# BillMor - RMS, A GUI Application
 
 ## Description
 
